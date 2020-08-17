@@ -23,7 +23,7 @@
   
 ## 📝 Other features that can be added
 
-1. Multitask icon when an app is opened;
-2. Internet explorer application;
-3. Support for multiple dimensions;
-4. Replicate crashes (a bonus!);
+1. Center card when tapped (Geometry reader or even ScrollViewReader);
+2. Summon transactions according to card in center;
+3. Allow transaction card to be slidable to dismiss;
+4. Scale card size when scrolling;
